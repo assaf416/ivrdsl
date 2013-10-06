@@ -1,0 +1,12 @@
+== ivrdsl
+
+Simple DSL for running surveys over IVR System
+
+
+'''
+question 'Who is buried in Grant\'s tomb?'
+option 'U. S. Grant'
+option 'Cary Grant'
+option 'Hugh Grant'
+option 'W. T. Grant'
+'''

@@ -1,0 +1,20 @@
+
+
+question 'Who was the first president of the USA?'
+option 'Fred Flintstone'
+option 'Martha Washington'
+option 'George Washington'
+option 'George Jetson'
+
+question 'Who is buried in Grant\'s tomb?'
+option 'U. S. Grant'
+option 'Cary Grant'
+option 'Hugh Grant'
+option 'W. T. Grant'
+
+
+question 'how old are you?'
+condition  0, 2
+option '22 to 30'
+option '50 to 60'
+
