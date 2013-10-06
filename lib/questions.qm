@@ -12,7 +12,6 @@ option 'Cary Grant'
 option 'Hugh Grant'
 option 'W. T. Grant'
 
-
 question 'how old are you?'
 condition  0, 2
 option '22 to 30'
